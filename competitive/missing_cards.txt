@@ -1,0 +1,11 @@
+*,2,Capture,Energy,RCL,171
+*,4,Dragonite,V,PR-SW,154
+*,1,Evolution,Incense,SSH,163
+*,3,Evolution,Incense,SSH,163
+*,3,Jirachi,VIV,119
+*,1,Level,Ball,BST,129
+*,3,Level,Ball,BST,129
+*,2,Quick,Ball,SSH,179
+*,2,Quick,Ball,SSH,179
+*,4,Quick,Ball,SSH,179
+*,2,Rose,Tower,DAA,169
