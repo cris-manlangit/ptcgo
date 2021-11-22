@@ -1,4 +1,3 @@
 *,2,Capture,Energy,RCL,171
 *,4,Dragonite,V,PR-SW,154
-*,3,Jirachi,VIV,119
 *,1,Quick,Ball,SSH,179
